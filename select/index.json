@@ -1,0 +1,152 @@
+{
+  "version": 1,
+  "base_track": "Happily",
+  "base_artist": "One Direction",
+  "createdAt": "2026-02-11T14:50:51.017984Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Happily Ever After",
+      "artist": "Ecco2k",
+      "has_synced": true,
+      "path": "select/01_Happily_Ever_After_Ecco2k.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Happily Ever After",
+      "artist": "Diddy",
+      "has_synced": false,
+      "path": "select/02_Happily_Ever_After_Diddy.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Happily Ever After",
+      "artist": "Book Of Love",
+      "has_synced": false,
+      "path": "select/03_Happily_Ever_After_Book_Of_Love.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Happily Divided",
+      "artist": "Sebadoh",
+      "has_synced": true,
+      "path": "select/04_Happily_Divided_Sebadoh.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Happily Never After",
+      "artist": "The Pussycat Dolls",
+      "has_synced": true,
+      "path": "select/05_Happily_Never_After_The_Pussycat_Dolls.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Happily Ever After",
+      "artist": "The Pussycat Dolls",
+      "has_synced": true,
+      "path": "select/06_Happily_Ever_After_The_Pussycat_Dolls.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Happily Ever After",
+      "artist": "Corrosion of Conformity",
+      "has_synced": false,
+      "path": "select/07_Happily_Ever_After_Corrosion_of_Conformity.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Happily Ever After",
+      "artist": "Spin Doctors",
+      "has_synced": true,
+      "path": "select/08_Happily_Ever_After_Spin_Doctors.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Happily",
+      "artist": "One Direction",
+      "has_synced": true,
+      "path": "select/09_Happily_One_Direction.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Happily Ever After",
+      "artist": "CASE",
+      "has_synced": false,
+      "path": "select/10_Happily_Ever_After_CASE.txt"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Happily Ever After",
+      "artist": "Donna Summer",
+      "has_synced": true,
+      "path": "select/11_Happily_Ever_After_Donna_Summer.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Happily Ever After",
+      "artist": "Donna Summer",
+      "has_synced": false,
+      "path": "select/12_Happily_Ever_After_Donna_Summer.txt"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Happily Never After",
+      "artist": "Pussycat Dolls",
+      "has_synced": true,
+      "path": "select/13_Happily_Never_After_Pussycat_Dolls.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Happily Ever After (Now and Then)",
+      "artist": "Jimmy Buffett",
+      "has_synced": false,
+      "path": "select/14_Happily_Ever_After_(Now_and_Then)_Jimmy_Buffett.txt"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Happily Married Man",
+      "artist": "Duane Allman",
+      "has_synced": true,
+      "path": "select/15_Happily_Married_Man_Duane_Allman.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Happily Married Man",
+      "artist": "Allman, Duane",
+      "has_synced": true,
+      "path": "select/16_Happily_Married_Man_Allman,_Duane.lrc"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "Feel That Again (feat. Happily Sad)",
+      "artist": "Powfu",
+      "has_synced": true,
+      "path": "select/17_Feel_That_Again_(feat._Happily_Sad)_Powfu.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Happily",
+      "artist": "One Direction",
+      "has_synced": false,
+      "path": "select/pl_01_Happily_One_Direction.txt"
+    }
+  ]
+}
